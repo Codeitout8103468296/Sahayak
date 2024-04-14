@@ -1,0 +1,39 @@
+.about{
+    margin: 100px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    
+
+}
+.about-left{
+    flex-basis: 40%;
+position: relative;
+}
+.about-right{
+    flex-basis: 56%;
+    width: fit-content;
+    background-color: rgb(136, 239, 255);
+    padding: 5%;
+
+}
+.about-right h2{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    color:#061F52;
+    margin-bottom: 5%;
+}
+.about-right p{
+    max-width: 700px;
+    margin: 10px auto 20px;
+    line-height: 2;
+    font-weight: 600;
+
+}
+
+.aboutimg{
+width: 100%;
+border-radius: 10px;
+}

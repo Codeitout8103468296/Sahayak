@@ -1,0 +1,74 @@
+.main{
+    
+    
+
+    width: 100%;
+    min-height: 100vh;
+   
+  background-image: url('../assets/image/Ss.png');
+   
+   background-size: cover;
+   background-position:center ;
+   color: white;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.name
+{    display: flex;
+    
+    width: 50vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+
+    
+   
+}
+.home{
+text-align: center ;
+max-width: 800px;
+}
+.home h1{
+    font-size: 100px;
+    font-weight: 600;
+
+}
+.home p{
+    max-width: 700px;
+    margin: 10px auto 20px;
+    line-height: 2;
+}
+.btn{
+    background:#061F52;
+     color: #f7f0f0;
+     padding: 10px 20px;
+     margin-top: 5%;
+     font-size: 16px;
+     border-radius: 30px;
+     cursor: pointer;
+     border: 0;
+     outline: 0;
+     display: inline-flex;
+     align-items: center;
+     justify-content: center;
+ }
+.Main form input{
+    display: block;
+    width: 100%;
+    padding: 15px;
+    border: 0;
+    outline: 0;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    resize: none;
+}
+@media (max-width:1200px){
+    .btn{
+        padding: 14px 22px;
+    }
+}
+  
+   

@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    background: rgb(174, 230, 252);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    line-height: 1;
+    cursor: pointer;
+}
+.container{
+    padding-left:10% ;
+    padding-right: 10%;
+} 
+@media (max-width:1200px){
+    .container{
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+} 
