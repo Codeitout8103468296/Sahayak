@@ -69,202 +69,202 @@
     },
     
         {
-            "location_name": "A.B. Ram Bal Ashram",
+            "organization": "A.B. Ram Bal Ashram",
             "city": "Varanasi",
             "state": "Uttar Pradesh",
-            "location": "Mahesh Nagar Colony Samne Ghat, Nagwa Varanasi"
+            "address": "Mahesh Nagar Colony Samne Ghat, Nagwa Varanasi"
         },
         {
-            "location_name": "Aadarana",
+            "organization": "Aadarana",
             "city": "Hyderabad",
             "state": "Andhra Pradesh",
-            "location": "HNO.20-17/C,Kodanadaramnagar,P&T Colony, Dilsukhnagar, Hyderabad-500060 Andhra Pradesh – INDIA"
+            "address": "HNO.20-17/C,Kodanadaramnagar,P&T Colony, Dilsukhnagar, Hyderabad-500060 Andhra Pradesh – INDIA"
         },
         {
-            "location_name": "AADITYA – Catalyst for Community Empowerment",
+            "organization": "AADITYA – Catalyst for Community Empowerment",
             "city": "New Delhi",
             "state": "Delhi",
-            "location": "8/7 Nehru Enclave, Kalkaji Extn. , Opp. Nehru Place, Behind Bharon Mandir, New Delhi, 110019, India"
+            "address": "8/7 Nehru Enclave, Kalkaji Extn. , Opp. Nehru Place, Behind Bharon Mandir, New Delhi, 110019, India"
         },
         {
-            "location_name": "AAMRAE",
+            "organization": "AAMRAE",
             "city": "Mumbai",
             "state": "Maharashtra",
-            "location": "Devki Singh Chawl Golibar Behind Adarsh Apartments, Santacruz (E) Mumbai 400 055"
+            "address": "Devki Singh Chawl Golibar Behind Adarsh Apartments, Santacruz (E) Mumbai 400 055"
         },
         {
-            "location_name": "Aangan Trust",
+            "organization": "Aangan Trust",
             "city": "Not Available",
             "state": "Not Available",
-            "location": "Not Available"
+            "address": "Not Available"
         },
         {
-            "location_name": "Aarti Home",
+            "organization": "Aarti Home",
             "city": "Cuddapah",
             "state": "Andhra Pradesh",
-            "location": "Opposite Municipal Stadium Cuddapah, Andhra Pradesh India 516001"
+            "address": "Opposite Municipal Stadium Cuddapah, Andhra Pradesh India 516001"
         },
         {
-            "location_name": "AASARA",
+            "organization": "AASARA",
             "city": "Thane",
             "state": "Maharashtra",
-            "location": "Prafulla Nakhawa Chawl Chandani Koliwada, Thane (E) 400603"
+            "address": "Prafulla Nakhawa Chawl Chandani Koliwada, Thane (E) 400603"
         },
         {
-            "location_name": "Aasha Social Welfare Association",
+            "organization": "Aasha Social Welfare Association",
             "city": "Hyderabad",
             "state": "Andhra Pradesh",
-            "location": "10-6-89, Brindavan Colony, Saroornagar Hyderbad, Andhrapradesh, 500035 India"
+            "address": "10-6-89, Brindavan Colony, Saroornagar Hyderbad, Andhrapradesh, 500035 India"
         },
         {
-            "location_name": "Aashna Children’s Home",
+            "organization": "Aashna Children’s Home",
             "city": "Coimbatore",
             "state": "Tamil Nadu",
-            "location": "1/30, PRM Gardens, Appanaickenpalayam post, K.Vadamadurai Post Coimbatore -641017"
+            "address": "1/30, PRM Gardens, Appanaickenpalayam post, K.Vadamadurai Post Coimbatore -641017"
         },
         {
-            "location_name": "AASHNA CHILDREN’S HOME (Governed by G.R.Memorial Trust)",
+            "organization": "AASHNA CHILDREN’S HOME (Governed by G.R.Memorial Trust)",
             "city": "Coimbatore",
             "state": "Tamil Nadu",
-            "location": "1/30, PRM GARDENS, APPANAICKENPALAYAM, K.VADAMADURAI (P.O), COIMBATORE-641017"
+            "address": "1/30, PRM GARDENS, APPANAICKENPALAYAM, K.VADAMADURAI (P.O), COIMBATORE-641017"
         },
         {
-            "location_name": "AASRA",
+            "organization": "AASRA",
             "city": "Navi Mumbai",
             "state": "Maharashtra",
-            "location": "A4, Tanwar View, Plot No 43, Sector-7 Kopar Khairane, Navi Mumbai"
+            "address": "A4, Tanwar View, Plot No 43, Sector-7 Kopar Khairane, Navi Mumbai"
         },
         {
-            "location_name": "Abalashram",
+            "organization": "Abalashram",
             "city": "Bangalore",
             "state": "Karnataka",
-            "location": "Abalashram Dr. D.V.G Road, Basavanagudi Bangalore – 560004 Karnataka India"
+            "address": "Abalashram Dr. D.V.G Road, Basavanagudi Bangalore – 560004 Karnataka India"
         },
         {
-            "location_name": "Abhayagramam",
+            "organization": "Abhayagramam",
             "city": "Thiruvananthapuram",
             "state": "Kerala",
-            "location": "Manchadi, Peyad Thiruvananthapuram, Kerala India 695573"
+            "address": "Manchadi, Peyad Thiruvananthapuram, Kerala India 695573"
         },
         {
-            "location_name": "Abhiyan",
+            "organization": "Abhiyan",
             "city": "Patna",
             "state": "Bihar",
-            "location": "Abhiyan, Barai bhawan, Birsa Adivasi Colony, Gulzarbagh, Patna- 800007, Bihar."
+            "address": "Abhiyan, Barai bhawan, Birsa Adivasi Colony, Gulzarbagh, Patna- 800007, Bihar."
         },
         {
-            "location_name": "Action for Collective Tribal Improvement & Vocational Education",
+            "organization": "Action for Collective Tribal Improvement & Vocational Education",
             "city": "Khammam",
             "state": "Andhra Pradesh",
-            "location": "H.N.6-2-97/2, Seeta Nilayam, Jammibanda Bazar Khammam – 507002, Andhra Pradesh India"
+            "address": "H.N.6-2-97/2, Seeta Nilayam, Jammibanda Bazar Khammam – 507002, Andhra Pradesh India"
         },
         {
-            "location_name": "Adarsh Charitable Trust",
+            "organization": "Adarsh Charitable Trust",
             "city": "Ernakulam",
             "state": "Kerala",
-            "location": "Adarsh Charitable Trust, X/584/B, Puthiya Road, Kureekad Ernakulam District,- 682305 Kerala"
+            "address": "Adarsh Charitable Trust, X/584/B, Puthiya Road, Kureekad Ernakulam District,- 682305 Kerala"
         },
         {
-            "location_name": "Adarsha Rural Development Society",
+            "organization": "Adarsha Rural Development Society",
             "city": "Bapatla",
             "state": "Andhra Pradesh",
-            "location": "H. No:17-1-6\\2, Daggumalli Vari Street, Bapatla Gubtur District, A.P. 522101 India"
+            "address": "H. No:17-1-6\\2, Daggumalli Vari Street, Bapatla Gubtur District, A.P. 522101 India"
         },
         {
-            "location_name": "Aditya Birla Centre for the Welfare of Children",
+            "organization": "Aditya Birla Centre for the Welfare of Children",
             "city": "Mumbai",
             "state": "Maharashtra",
-            "location": "Siddharth Colony Chembur Naka Mumbai 400071 Karmayogi:"
+            "address": "Siddharth Colony Chembur Naka Mumbai 400071 Karmayogi:"
         },
         {
-            "location_name": "Aditya Jyot Eye Research Institute",
+            "organization": "Aditya Jyot Eye Research Institute",
             "city": "Mumbai",
             "state": "Maharashtra",
-            "location": "Dr. S. Natarajan – Secretary, Aashirwad, 168 – D Vikaswadi Dr. Ambedkar Road, Dadar, Mumbai – 400014 Maharashtra, INDIA"
+            "address": "Dr. S. Natarajan – Secretary, Aashirwad, 168 – D Vikaswadi Dr. Ambedkar Road, Dadar, Mumbai – 400014 Maharashtra, INDIA"
         },
         {
-            "location_name": "Affus Woman Welfare Association",
+            "organization": "Affus Woman Welfare Association",
             "city": "Anantapur",
             "state": "Andhra Pradesh",
-            "location": "10-303, Gulzarpet, Anantapur – 515001 Andhrapradesh India"
+            "address": "10-303, Gulzarpet, Anantapur – 515001 Andhrapradesh India"
         },
         {
-            "location_name": "Agape Bible Fellowship",
+            "organization": "Agape Bible Fellowship",
             "city": "Bangalore",
             "state": "Karnataka",
-            "location": "Agape Bible Fellowship 388/1, 1st Main 3rd Stage, Pillanna Garden, Bangalore-560 045, Karnataka, India."
+            "address": "Agape Bible Fellowship 388/1, 1st Main 3rd Stage, Pillanna Garden, Bangalore-560 045, Karnataka, India."
         },
         {
-            "location_name": "Agape Care Children Home",
+            "organization": "Agape Care Children Home",
             "city": "Gannavaram",
             "state": "Andhra Pradesh",
-            "location": "Agape Children Home Church street, New Colony, Veerapaneni Gudem-521286 Gannavaram, Krishna dist Andhra pradesh India"
+            "address": "Agape Children Home Church street, New Colony, Veerapaneni Gudem-521286 Gannavaram, Krishna dist Andhra pradesh India"
         },
         {
-            "location_name": "Agape Children Home",
+            "organization": "Agape Children Home",
             "city": "Gannavaram",
             "state": "Andhra Pradesh",
-            "location": "Veerapaneni Gudem(Po) Gannavaram-Md Krishna Dist 521286 Andhra pradesh India"
+            "address": "Veerapaneni Gudem(Po) Gannavaram-Md Krishna Dist 521286 Andhra pradesh India"
         },
         {
-            "location_name": "Agape Home for Children",
+            "organization": "Agape Home for Children",
             "city": "Salem",
             "state": "Tamil Nadu",
-            "location": "29 k WEST ANBUNAGAR, GORIMEDU, KANNANKURICHI – PO, SALEM – 636 008"
+            "address": "29 k WEST ANBUNAGAR, GORIMEDU, KANNANKURICHI – PO, SALEM – 636 008"
         },
         {
-            "location_name": "Agappe Educational and Charitable Society",
+            "organization": "Agappe Educational and Charitable Society",
             "city": "Kollam",
             "state": "Kerala",
-            "location": "Kottappuram, Kottarakara Kollam, Kerala India"
+            "address": "Kottappuram, Kottarakara Kollam, Kerala India"
         },
         {
-            "location_name": "AGNI",
+            "organization": "AGNI",
             "city": "Kolkata",
             "state": "West Bengal",
-            "location": "FD 219/3 Sector III Salt Lake Kolkata, West Bengal, 700106 India"
+            "address": "FD 219/3 Sector III Salt Lake Kolkata, West Bengal, 700106 India"
         },
         {
-            "location_name": "Ahmedabad Women’s Action Group",
+            "organization": "Ahmedabad Women’s Action Group",
             "city": "Ahmedabad",
             "state": "Gujarat",
-            "location": "Dr. Ila Pathak, 5, Professors’ Colony, Navrangpura, Ahmedabad – 380009 Gujarat, INDIA"
+            "address": "Dr. Ila Pathak, 5, Professors’ Colony, Navrangpura, Ahmedabad – 380009 Gujarat, INDIA"
         },
         {
-            "location_name": "Akanksha Foundation",
+            "organization": "Akanksha Foundation",
             "city": "Mumbai",
             "state": "Maharashtra",
-            "location": "Voltas House C TB Kadam Marg, Chinchpokli Mumbai 400 033"
+            "address": "Voltas House C TB Kadam Marg, Chinchpokli Mumbai 400 033"
         },
         {
-            "location_name": "Akhil Bhartiya Magasvargiya Samaj Prabhothan Sanstha",
+            "organization": "Akhil Bhartiya Magasvargiya Samaj Prabhothan Sanstha",
             "city": "Thane",
             "state": "Maharashtra",
-            "location": "Flat No. 16, Prakash Apartment Katemanivali, Kalyan (East) Thane – 421306"
+            "address": "Flat No. 16, Prakash Apartment Katemanivali, Kalyan (East) Thane – 421306"
         },
         {
-            "location_name": "Akhil Bhartiya Yuva Vikas Sangh",
+            "organization": "Akhil Bhartiya Yuva Vikas Sangh",
             "city": "Mumbai",
             "state": "Maharashtra",
-            "location": "205/8236, Kannamwar Nagar, Vikhroli Bombay, Maharashtra, 400083 India"
+            "address": "205/8236, Kannamwar Nagar, Vikhroli Bombay, Maharashtra, 400083 India"
         },
         {
-            "location_name": "Akhila Bharateeya Brahmana Karivena Nityannadana Satram",
+            "organization": "Akhila Bharateeya Brahmana Karivena Nityannadana Satram",
             "city": "Srisailam",
             "state": "Andhra Pradesh",
-            "location": "Temple Street Srisailam, Kurnool District, Andhra Pradesh – 518001 India"
+            "address": "Temple Street Srisailam, Kurnool District, Andhra Pradesh – 518001 India"
         },
         {
-            "location_name": "Akshar Abhyaas",
+            "organization": "Akshar Abhyaas",
             "city": "Ghaziabad",
             "state": "Uttar Pradesh",
-            "location": "121, Siddharth Niketan, Sector 14, Kaushambi Ghaziabad, Uttar Pradesh, 201010 India"
+            "address": "121, Siddharth Niketan, Sector 14, Kaushambi Ghaziabad, Uttar Pradesh, 201010 India"
         },
         {
-            "location_name": "AKSHARATMIKA EDUCATION TRUST",
+            "organization": "AKSHARATMIKA EDUCATION TRUST",
             "city": "Thane",
             "state": "Maharashtra",
-            "location": "Gauri Nandan Basement, Hotel Gurudham Compound, Pune Link Road, Katemanivli P.O., Kalyan – East THANE- 421 306"
+            "address": "Gauri Nandan Basement, Hotel Gurudham Compound, Pune Link Road, Katemanivli P.O., Kalyan – East THANE- 421 306"
         }
     ]
     

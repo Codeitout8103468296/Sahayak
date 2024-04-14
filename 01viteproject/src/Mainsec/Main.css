@@ -1,7 +1,10 @@
 .main{
+    margin-top: 90px;
     
-    
-
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
     width: 100%;
     min-height: 100vh;
    
@@ -55,15 +58,18 @@ max-width: 800px;
      align-items: center;
      justify-content: center;
  }
-.Main form input{
-    display: block;
+form{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.datasec{
+    display: flex;
+    flex-wrap: wrap;
     width: 100%;
-    padding: 15px;
-    border: 0;
-    outline: 0;
-    margin-bottom: 15px;
-    margin-top: 5px;
-    resize: none;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 @media (max-width:1200px){
     .btn{
